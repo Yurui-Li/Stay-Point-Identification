@@ -7,7 +7,7 @@ A stay point is a geographic region that a person has stayed for a period of tim
 This is an paper under review, we will give the link address after the paper was published.
 # Dataset
 
-We use GeoLife dataset [16], collected in (Microsoft Research Asia) GeoLife project by 182 users in a period of over three years (from April 2007 to August 2012). This dataset contains 17,621 trajectories with a total distance of 1,292,951kilometers and a total duration of 50,176 hours.These trajectories were recorded by different GPS loggers and GPS-phones and have a variety of sampling rates. 91.5 percent of the trajectories are logged in a high frequency,e.g., every 1~5 seconds or every 5~10 meters per point.
+We use the GeoLife dataset collected in (Microsoft Research Asia) GeoLife project by 182 users in a period of over three years (from April 2007 to August 2012). This dataset contains 17,621 trajectories with a total distance of 1,292,951kilometers and a total duration of 50,176 hours.These trajectories were recorded by different GPS loggers and GPS-phones and have a variety of sampling rates. 91.5 percent of the trajectories are logged in a high frequency,e.g., every 1-5 seconds or every 5-10 meters per point.
 Here is the [website address](http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/)
 # Baseline Algorithm
 
