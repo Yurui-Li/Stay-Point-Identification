@@ -10,3 +10,14 @@ Here is the [website address](http://research.microsoft.com/en-us/downloads/b16d
 #Baseline Algorithm
 We take the approach used in the literature (Li, Quannan, et al. "Mining user similarity based on location history." ACM Sigspatial International
 Conference on Advances in Geographic Information Systems ACM, 2008:34) as the baseline algorithm.
+
+# Advantage
+
+The contributions of our work can be summarized as follows:
+1) Our approach takes into account time continuity and its two directions, which
+make our approach perform well on a wide range of thresholds and avoid missing
+special stay points.
+2) Our approach can find the stay point’s representative point which is very useful
+information for further work without extra calculations.
+3) The experiment shows our method performs well on large range of thresholds
+and can identify special stay points which baseline algorithm can’t identify.
